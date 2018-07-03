@@ -1,3 +1,3 @@
 # hello-world
-Tutorial for using GitHub
-GitHub changes are called commits
+Hello! I am completing the Tutorial for using GitHub.
+Will test the branching now.
